@@ -1,0 +1,22 @@
+Starting single insert...
+Single insert completed in 128.36 seconds.
+
+
+Starting batch insert...
+Batch insert completed in 18.88 seconds.
+
+Starting concurrent insert...
+Thread 0 completed.
+Thread 1 completed.
+Thread 3 completed.
+Thread 2 completed.
+Thread 4 completed.
+Thread 5 completed.
+Thread 7 completed.
+Thread 6 completed.
+Thread 8 completed.
+Thread 9 completed.
+Concurrent insert completed in 28.04 seconds.
+
+
+
