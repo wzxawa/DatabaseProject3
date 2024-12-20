@@ -10,6 +10,7 @@ Starting single insert...
 Single insert completed in 103.60 seconds.
 Starting single insert...
 Single insert completed in 102.54 seconds.
+Average:108.726 seconds
 
 --------------------------------------------------------------batch insert-------------------------------------------------------------------------------
 
@@ -23,6 +24,7 @@ Starting batch insert...
 Batch insert completed in 2.89 seconds.
 Starting batch insert...
 Batch insert completed in 2.84 seconds.
+Average:2.81 seconds
 
 ------------------------------------------------------------concurrent insert---------------------------------------------------------------------------------
 
@@ -86,3 +88,4 @@ Thread 7 completed.
 Thread 8 completed.
 Thread 9 completed.
 Concurrent insert completed in 26.30 seconds.
+Average:26.088 seconds

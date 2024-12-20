@@ -4,10 +4,10 @@ import time
 # 数据库连接配置
 DB_CONFIG = {
     "dbname": "postgres",
-    "user": "postgres",
-    "password": "wzx",
+    "user": "gaussdb",
+    "password": "@Wzxyyds123",
     "host": "localhost",
-    "port": 5432
+    "port": 15432  # docker port
 }
 
 def generate_data(start, count):

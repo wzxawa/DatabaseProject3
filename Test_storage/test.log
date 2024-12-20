@@ -1,0 +1,23 @@
+PostgreSQL 存储效率测试:
+
+[PostgreSQL] 检查索引 'idx_value' 是否存在...
+[PostgreSQL] 索引 'idx_value' 已存在，跳过创建。
+
+[PostgreSQL] 查询表 'test_table' 的存储空间占用:
+('306 MB', '192 MB', '114 MB')
+
+[PostgreSQL] 查询表 'test_table' 的索引存储效率:
+('test_table_pkey', '82 MB')
+('idx_value', '32 MB')
+
+OpenGauss 存储效率测试:
+
+[OpenGauss] 检查索引 'idx_value' 是否存在...
+[OpenGauss] 索引 'idx_value' 已存在，跳过创建。
+
+[OpenGauss] 查询表 'test_table' 的存储空间占用:
+('259 MB', '140 MB', '120 MB')
+
+[OpenGauss] 查询表 'test_table' 的索引存储效率:
+('test_table_pkey', '60 MB')
+('idx_value', '60 MB')
