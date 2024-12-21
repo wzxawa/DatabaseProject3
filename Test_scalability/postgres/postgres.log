@@ -1,0 +1,149 @@
+Starting concurrent insert testing...
+
+Testing with 1 threads:
+Thread 0 completed.
+Time taken with 1 threads: 112.41 seconds
+
+Testing with 2 threads:
+Thread 0 completed.
+Thread 1 completed.
+Time taken with 2 threads: 59.64 seconds
+
+Testing with 4 threads:
+Thread 1 completed.
+Thread 0 completed.
+Thread 2 completed.
+Thread 3 completed.
+Time taken with 4 threads: 38.79 seconds
+
+Testing with 8 threads:
+Thread 0 completed.
+Thread 1 completed.
+Thread 3 completed.
+Thread 2 completed.
+Thread 7 completed.
+Thread 6 completed.
+Thread 4 completed.
+Thread 5 completed.
+Time taken with 8 threads: 29.16 seconds
+
+Testing with 16 threads:
+Thread 1 completed.
+Thread 0 completed.
+Thread 2 completed.
+Thread 3 completed.
+Thread 5 completed.
+Thread 7 completed.
+Thread 4 completed.
+Thread 6 completed.
+Thread 11 completed.
+Thread 10 completed.
+Thread 8 completed.
+Thread 9 completed.
+Thread 12 completed.
+Thread 15 completed.
+Thread 13 completed.
+Thread 14 completed.
+Time taken with 16 threads: 22.39 seconds
+
+Testing with 32 threads:
+Thread 0 completed.
+Thread 4 completed.
+Thread 2 completed.
+Thread 7 completed.
+Thread 1 completed.
+Thread 3 completed.
+Thread 8 completed.
+Thread 9 completed.
+Thread 5 completed.
+Thread 11 completed.
+Thread 10 completed.
+Thread 6 completed.
+Thread 15 completed.
+Thread 12 completed.
+Thread 16 completed.
+Thread 13 completed.
+Thread 17 completed.
+Thread 14 completed.
+Thread 18 completed.
+Thread 19 completed.
+Thread 20 completed.
+Thread 23 completed.
+Thread 24 completed.
+Thread 25 completed.
+Thread 21 completed.
+Thread 22 completed.
+Thread 26 completed.
+Thread 27 completed.
+Thread 28 completed.
+Thread 29 completed.
+Thread 31 completed.
+Thread 30 completed.
+Time taken with 32 threads: 23.38 seconds
+
+Testing with 64 threads:
+Thread 0 completed.
+Thread 1 completed.
+Thread 2 completed.
+Thread 4 completed.
+Thread 3 completed.
+Thread 5 completed.
+Thread 6 completed.
+Thread 8 completed.
+Thread 9 completed.
+Thread 7 completed.
+Thread 10 completed.
+Thread 12 completed.
+Thread 11 completed.
+Thread 13 completed.
+Thread 14 completed.
+Thread 16 completed.
+Thread 17 completed.
+Thread 15 completed.
+Thread 18 completed.
+Thread 20 completed.
+Thread 19 completed.
+Thread 21 completed.
+Thread 24 completed.
+Thread 22 completed.
+Thread 23 completed.
+Thread 25 completed.
+Thread 26 completed.
+Thread 28 completed.
+Thread 29 completed.
+Thread 27 completed.
+Thread 32 completed.
+Thread 31 completed.
+Thread 33 completed.
+Thread 30 completed.
+Thread 34 completed.
+Thread 37 completed.
+Thread 36 completed.
+Thread 35 completed.
+Thread 38 completed.
+Thread 40 completed.
+Thread 39 completed.
+Thread 41 completed.
+Thread 42 completed.
+Thread 45 completed.
+Thread 43 completed.
+Thread 44 completed.
+Thread 48 completed.
+Thread 46 completed.
+Thread 50 completed.
+Thread 49 completed.
+Thread 47 completed.
+Thread 53 completed.
+Thread 51 completed.
+Thread 52 completed.
+Thread 56 completed.
+Thread 54 completed.
+Thread 58 completed.
+Thread 57 completed.
+Thread 55 completed.
+Thread 61 completed.
+Thread 59 completed.
+Thread 60 completed.
+Thread 62 completed.
+Thread 63 completed.
+Time taken with 64 threads: 23.92 seconds

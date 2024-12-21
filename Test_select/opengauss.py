@@ -1,7 +1,7 @@
 import psycopg2
 import time
 
-# PostgreSQL 配置
+# OpenGauss 配置
 config_opengauss = {
     "dbname": "postgres",
     "user": "gaussdb",
